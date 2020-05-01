@@ -6,5 +6,6 @@ $('.slider-one')
     infinite:true,
     dots: true,
     fade: true,
-    
+    prevArrow:".site-slider .slider-btn .prev",
+    nextArrow:".site-slider .slider-btn .next"
   });
