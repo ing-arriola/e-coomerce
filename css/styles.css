@@ -37,3 +37,14 @@ header{
 header .site-title{
     font-family: var(--gugi);
 }
+
+.container .dropdown-toggle,
+.container .dropdown-item{
+    font-size: 0.7em;
+}
+
+.header-links a{
+    font-size: 0.9em;
+    text-decoration: none;
+    color: white;
+}
